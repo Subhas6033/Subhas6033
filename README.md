@@ -9,13 +9,15 @@
 
 ###
 
-<div align="center">
+<h1 align="center">hey there 👋  I'm Subhas Mondal</h1>
+ 
+###
+
+
+ <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Subhas6033.Subhas6033&"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋  I'm Subhas Mondal</h1>
 
 ###
 
