@@ -9,9 +9,11 @@
 
 ###
 
-<h1 align="center">hey there 👋  I'm Subhas Mondal</h1>
+<h1 align="center">Hii 👋,  I'm Subhas Mondal</h1>
  
 ###
+
+<h4 align="center">A passioniate full stack developer from India</h4>
 
 
  <div align="left">
