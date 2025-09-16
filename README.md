@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Full stack Developer<br><br>- 📚 I'm currently studying at second year at Jalpaiguri Government Engineering College in Information Technology Department<br><br>- 📬 Feel free to ask me at : sm2733@it.jgec.ac.in</p>
+<p align="left">- 🔭 I’m a Full stack Developer<br><br>- 📚 I'm currently studying at Third year at Jalpaiguri Government Engineering College in Information Technology Department<br><br>- 📬 Feel free to ask me at : sm2733@it.jgec.ac.in</p>
 
 ###
 
