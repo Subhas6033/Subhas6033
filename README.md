@@ -12,7 +12,8 @@
 <!-- Visitors Count -->
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Subhas6033.Subhas6033" />
-  <div/>
+</div>
+
 
 </div>
 
@@ -85,40 +86,14 @@
 </div>
 
 
----
-
-## 🏆 GitHub Trophies
-<div align="left">
-
-  <!-- Primary -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhas6033&theme=radical&margin-w=4" />
-
-  <br/><br/>
-
-  <!-- Backup -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhas6033&theme=flat&margin-w=4" />
-
-</div>
-
-
-
----
 
 ### ✍️ Random Dev Quote
-<div align="left">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 
 ---
-
-### 🔝 Top Contributed Repo
-
-<!-- Primary -->
-![](https://github-contributor-stats.vercel.app/api?username=Subhas6033&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Backup -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhas6033&layout=compact&theme=shadow_blue)
 
 
 </div>
