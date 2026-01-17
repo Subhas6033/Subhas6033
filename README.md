@@ -19,7 +19,7 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me
 
 💻 I am a Full Stack Developer<br>
 🎓 Currently pursuing Bachelor of Technology (B.Tech) in Information Technology from Jalpaiguri Government Engineering College<br>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhas.mondal.110244)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goalkeepersubhas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subhas6033)
@@ -37,7 +37,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,7 +78,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Subhas6033&theme=shadow_blue&hide_border=false" />
